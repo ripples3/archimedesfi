@@ -1,3 +1,5 @@
+---https://dune.com/queries/1381807/2350003
+
 with
 
 a3crv as (
