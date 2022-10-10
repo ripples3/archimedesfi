@@ -1,3 +1,4 @@
+-- https://dune.com/queries/1381822/2350040
 select date_trunc ('day', "hour") as day, 'FRAX' as symbol, avg("median_price") as "FRAX/ETH Price (USD)"
 from dex."view_token_prices"
 where "contract_address" = '{{Token1}}'
