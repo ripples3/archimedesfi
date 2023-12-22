@@ -1,6 +1,6 @@
 --- https://dune.com/queries/1381804/2349998
 with 
-
+--------------- test
 frax_transf_allocation as (
 select 
     date_trunc('day',evt_block_time) as day,
