@@ -5,3 +5,4 @@ where "contract_address" = '{{Token1}}'
 and hour >= now() - interval '{{Time Period}}'
 group by 1,2
 order by day desc
+jolsdkfsdfsdfsdfsdfs
